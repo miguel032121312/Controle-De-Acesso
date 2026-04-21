@@ -127,9 +127,8 @@ Autenticação em aplicações web
 Uso de regras de segurança no Firebase
 👨‍💻 Autor
 
-Desenvolvido por Miguel Vinicius
+Desenvolvido por Miguel Vinicius Bitancourt Vasconcelos
 
 🏁 Status do Projeto
 
 ✅ Concluído
-🚀 Pronto para entrega e avaliação
